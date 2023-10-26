@@ -15,7 +15,7 @@ pip uninstall requests chardet urllib3 idna certifi -y;
 
 pip install chardet urllib3 idna certifi requests
 
-git clone 
+git clone https://github.com/KINGHIMEL32/Black-hacking
 
 cd Black-hacking
 
